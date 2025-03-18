@@ -64,5 +64,20 @@ The Country API Project is a simple web application that fetches data from the R
    Country Name, Country Flag, Population, latlng, Region, area, border, Capital city
    
 # UI VIEWS
+## Home Page:-
+![Image](https://github.com/user-attachments/assets/1451e880-0aa9-4b24-949a-1e01b2e6c84e)
+## After Searching:-
+![Image](https://github.com/user-attachments/assets/3cc6def0-7760-4133-a09c-463be9d3ab94)
+![Image](https://github.com/user-attachments/assets/6f7f1a9d-6874-40f9-a95f-3b5d6e839995)
 
+## steps to set up this project
+- clone this project using
+- install the necessary packages
+  
+    by using this install necessary packages pip install - r requirements.txt
+- change the dir to the project
+  
+    python manage.py runserver
+  
+Thank You🙏🏻
 
