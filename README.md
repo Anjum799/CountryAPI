@@ -71,7 +71,7 @@ The Country API Project is a simple web application that fetches data from the R
 ![Image](https://github.com/user-attachments/assets/6f7f1a9d-6874-40f9-a95f-3b5d6e839995)
 
 ## steps to set up this project
-- clone this project using
+- clone this project using https://github.com/Anjum799/CountryAPI.git
 - install the necessary packages
   
     by using this install necessary packages pip install - r requirements.txt
